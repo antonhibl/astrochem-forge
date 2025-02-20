@@ -2,7 +2,10 @@
     "type": "alchemistry:dissolver",
     "group": "alchemistry:dissolver",
     "input": {
-      "item": "astrochem:ostrum_dust"
+      "count": 1,
+      "ingredient": {
+        "item": "astrochem:ostrum_dust"
+      }
     },
     "output": {
       "rolls": 1,

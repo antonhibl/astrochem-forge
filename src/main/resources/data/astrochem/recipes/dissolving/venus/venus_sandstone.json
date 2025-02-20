@@ -2,7 +2,10 @@
   "type": "alchemistry:dissolver",
   "group": "alchemistry:dissolver",
   "input": {
-    "item": "ad_astra:venus_sandstone"
+    "count": 1,
+    "ingredient": {
+      "item": "ad_astra:venus_sandstone"
+    }
   },
   "output": {
     "rolls": 1,

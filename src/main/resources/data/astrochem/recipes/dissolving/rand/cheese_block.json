@@ -2,7 +2,10 @@
   "type": "alchemistry:dissolver",
   "group": "alchemistry:dissolver",
   "input": {
-    "item": "ad_astra:cheese_block"
+    "count": 1,
+    "ingredient": {
+      "item": "ad_astra:cheese_block"
+    }
   },
   "output": {
     "rolls": 1,

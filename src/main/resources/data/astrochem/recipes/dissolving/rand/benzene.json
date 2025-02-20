@@ -2,7 +2,10 @@
   "type": "alchemistry:dissolver",
   "group": "alchemistry:dissolver",
   "input": {
-    "item": "astrochem:benzene"
+    "count": 1,
+    "ingredient": {
+      "item": "astrochem:benzene"
+    }
   },
   "output": {
     "rolls": 1,

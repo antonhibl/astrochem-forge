@@ -2,7 +2,10 @@
   "type": "alchemistry:dissolver",
   "group": "alchemistry:dissolver",
   "input": {
-    "item": "astrochem:cryo_fuel_phial"
+    "count": 1,
+    "ingredient": {
+      "item": "astrochem:cryo_fuel_phial"
+    }
   },
   "output": {
     "rolls": 1,

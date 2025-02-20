@@ -3,16 +3,19 @@
   "group": "alchemistry:combiner",
   "input": [
     {
-      "item": "chemlib:oxygen",
+      "ingredient": {
+        "item": "chemlib:oxygen"
+      },
       "count": 4
     },
     {
-      "item": "chemlib:hydrogen_sulfide",
+      "ingredient": {
+        "item": "chemlib:hydrogen_sulfide"
+      },
       "count": 3
     }
   ],
   "result": {
-    "item": "astrochem:cryogenic_oxygen",
-    "count": 1
+    "item": "astrochem:cryogenic_oxygen"
   }
 }

@@ -3,16 +3,19 @@
   "group": "alchemistry:combiner",
   "input": [
     {
-      "item": "astrochem:petroleum",
+      "ingredient": {
+        "item": "astrochem:petroleum"
+      },
       "count": 32
     },
     {
-      "item": "minecraft:bucket",
+      "ingredient": {
+        "item": "minecraft:bucket"
+      },
       "count": 1
     }
   ],
   "result": {
-    "item": "ad_astra:oil_bucket",
-    "count": 1
+    "item": "ad_astra:oil_bucket"
   }
 }

@@ -2,7 +2,10 @@
   "type": "alchemistry:dissolver",
   "group": "alchemistry:dissolver",
   "input": {
-    "item": "ad_astra:permafrost"
+    "count": 1,
+    "ingredient": {
+      "item": "ad_astra:permafrost"
+    }
   },
   "output": {
     "rolls": 1,

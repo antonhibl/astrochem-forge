@@ -3,16 +3,19 @@
   "group": "alchemistry:combiner",
   "input": [
     {
-      "item": "chemlib:methane",
+      "ingredient": {
+        "item": "chemlib:methane"
+      },
       "count": 1
     },
     {
-      "item": "chemlib:oxygen",
+      "ingredient": {
+        "item": "chemlib:oxygen"
+      },
       "count": 1
     }
   ],
   "result": {
-    "item": "astrochem:methanol",
-    "count": 1
+    "item": "astrochem:methanol"
   }
 }

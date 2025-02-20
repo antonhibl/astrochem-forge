@@ -3,20 +3,25 @@
   "group": "alchemistry:combiner",
   "input": [
     {
-      "item": "astrochem:petroleum",
+      "ingredient": {
+        "item": "astrochem:petroleum"
+      },
       "count": 4
     },
     {
-      "item": "astrochem:cryogenic_nitrogen",
+      "ingredient": {
+        "item": "astrochem:cryogenic_nitrogen"
+      },
       "count": 3
     },
     {
-      "item": "astrochem:cryogenic_oxygen",
+      "ingredient": {
+        "item": "astrochem:cryogenic_oxygen"
+      },
       "count": 3
     }
   ],
   "result": {
-    "item": "astrochem:cryo_fluid_phial",
-    "count": 1
+    "item": "astrochem:cryo_fluid_phial"
   }
 }

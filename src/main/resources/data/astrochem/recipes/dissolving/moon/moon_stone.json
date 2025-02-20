@@ -2,7 +2,10 @@
   "type": "alchemistry:dissolver",
   "group": "alchemistry:dissolver",
   "input": {
-    "item": "ad_astra:moon_stone"
+    "count": 1,
+    "ingredient": {
+      "item": "ad_astra:moon_stone"
+    }
   },
   "output": {
     "rolls": 1,

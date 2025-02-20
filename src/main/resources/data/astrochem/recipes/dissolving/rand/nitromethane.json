@@ -2,7 +2,10 @@
   "type": "alchemistry:dissolver",
   "group": "alchemistry:dissolver",
   "input": {
-    "item": "astrochem:nitromethane"
+    "count": 1,
+    "ingredient": {
+      "item": "astrochem:nitro_methane"
+    }
   },
   "output": {
     "rolls": 1,

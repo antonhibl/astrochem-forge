@@ -2,7 +2,10 @@
     "type": "alchemistry:dissolver",
     "group": "alchemistry:dissolver",
     "input": {
-      "item": "ad_astra:ostrum_ingot"
+      "count": 1,
+      "ingredient": {
+        "item": "ad_astra:ostrum_ingot"
+      }
     },
     "output": {
       "rolls": 1,

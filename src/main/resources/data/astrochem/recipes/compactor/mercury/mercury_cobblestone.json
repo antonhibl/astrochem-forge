@@ -1,12 +1,13 @@
 {
   "type": "alchemistry:compactor",
-  "group": "compactor",
+  "group": "alchemistry:compactor",
   "input": {
-    "item": "chemlib:zinc_oxide",
-    "count": 1
+    "count": 1,
+    "ingredient": {
+      "item": "chemlib:zinc_oxide"
+    }
   },
   "result": {
-    "item": "ad_astra:mercury_cobblestone",
-    "count": 1
+    "item": "ad_astra:mercury_cobblestone"
   }
 }

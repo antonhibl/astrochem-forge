@@ -1,12 +1,13 @@
 {
   "type": "alchemistry:compactor",
-  "group": "compactor",
+  "group": "alchemistry:compactor",
   "input": {
-    "item": "chemlib:magnesium_oxide",
-    "count": 1
+    "count": 1,
+    "ingredient": {
+      "item": "chemlib:magnesium_oxide"
+    }
   },
   "result": {
-    "item": "ad_astra:moon_cobblestone",
-    "count": 1
+    "item": "ad_astra:moon_cobblestone"
   }
 }

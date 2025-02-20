@@ -2,7 +2,10 @@
   "type": "alchemistry:dissolver",
   "group": "alchemistry:dissolver",
   "input": {
-    "item": "astrochem:petroleum"
+    "count": 1,
+    "ingredient": {
+      "item": "astrochem:petroleum"
+    }
   },
   "output": {
     "rolls": 1,

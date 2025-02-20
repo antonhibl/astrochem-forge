@@ -3,24 +3,31 @@
   "group": "alchemistry:combiner",
   "input": [
     {
-      "item": "chemlib:calcium",
+      "ingredient": {
+        "item": "chemlib:calcium"
+      },
       "count": 4
     },
     {
-      "item": "chemlib:water",
+      "ingredient": {
+        "item": "chemlib:water"
+      },
       "count": 2
     },
     {
-      "item": "chemlib:protein",
+      "ingredient": {
+        "item": "chemlib:protein"
+      },
       "count": 9
     },
     {
-      "item": "chemlib:acetic_acid",
+      "ingredient": {
+        "item": "chemlib:acetic_acid"
+      },
       "count": 1
     }
   ],
   "result": {
-    "item": "ad_astra:cheese",
-    "count": 1
+    "item": "ad_astra:cheese"
   }
 }

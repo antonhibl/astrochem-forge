@@ -1,12 +1,13 @@
 {
   "type": "alchemistry:compactor",
-  "group": "compactor",
+  "group": "alchemistry:compactor",
   "input": {
-    "item": "chemlib:iron_disulfide",
-    "count": 1
+    "count": 1,
+    "ingredient": {
+      "item": "chemlib:iron_disulfide"
+    }
   },
   "result": {
-    "item": "ad_astra:conglomerate",
-    "count": 1
+    "item": "ad_astra:conglomerate"
   }
 }

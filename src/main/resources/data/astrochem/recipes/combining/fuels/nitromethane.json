@@ -3,16 +3,19 @@
   "group": "alchemistry:combiner",
   "input": [
     {
-      "item": "chemlib:nitrogen_dioxide",
+      "ingredient": {
+        "item": "chemlib:nitrogen_dioxide"
+      },
       "count": 1
     },
     {
-      "item": "astrochem:methanol",
+      "ingredient": {
+        "item": "astrochem:methanol"
+      },
       "count": 1
     }
   ],
   "result": {
-    "item": "astrochem:nitro_methane",
-    "count": 1
+    "item": "astrochem:nitro_methane"
   }
 }

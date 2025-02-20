@@ -3,20 +3,25 @@
   "group": "alchemistry:combiner",
   "input": [
     {
-      "item": "chemlib:propane",
+      "ingredient": {
+        "item": "chemlib:propane"
+      },
       "count": 16
     },
     {
-      "item": "astrochem:benzene",
+      "ingredient": {
+        "item": "astrochem:benzene"
+      },
       "count": 14
     },
     {
-      "item": "astrochem:nitro_methane",
+      "ingredient": {
+        "item": "astrochem:nitro_methane"
+      },
       "count": 20
     }
   ],
   "result": {
-    "item": "astrochem:petroleum",
-    "count": 1
+    "item": "astrochem:petroleum"
   }
 }

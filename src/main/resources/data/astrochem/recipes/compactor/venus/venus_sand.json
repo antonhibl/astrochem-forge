@@ -1,12 +1,13 @@
 {
   "type": "alchemistry:compactor",
-  "group": "compactor",
+  "group": "alchemistry:compactor",
   "input": {
-    "item": "chemlib:calcium_oxide",
-    "count": 1
+    "count": 1,
+    "ingredient": {
+      "item": "chemlib:calcium_oxide"
+    }
   },
   "result": {
-    "item": "ad_astra:venus_sand",
-    "count": 1
+    "item": "ad_astra:venus_sand"
   }
 }

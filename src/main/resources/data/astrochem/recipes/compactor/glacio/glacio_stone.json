@@ -1,12 +1,13 @@
 {
   "type": "alchemistry:compactor",
-  "group": "compactor",
+  "group": "alchemistry:compactor",
   "input": {
-    "item": "chemlib:aluminum_oxide",
-    "count": 1
+    "count": 1,
+    "ingredient": {
+      "item": "chemlib:aluminum_oxide"
+    }
   },
   "result": {
-    "item": "ad_astra:glacio_stone",
-    "count": 1
+    "item": "ad_astra:glacio_stone"
   }
 }

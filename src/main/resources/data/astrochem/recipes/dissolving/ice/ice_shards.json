@@ -2,7 +2,10 @@
     "type": "alchemistry:dissolver",
     "group": "alchemistry:dissolver",
     "input": {
-      "item": "ad_astra:ice_shards"
+      "count": 1,
+      "ingredient": {
+        "item": "ad_astra:ice_shards"
+      }
     },
     "output": {
       "rolls": 1,
