@@ -1,0 +1,22 @@
+{
+  "type": "alchemistry:combiner",
+  "group": "alchemistry:combiner",
+  "input": [
+    {
+      "item": "chemlib:propane",
+      "count": 16
+    },
+    {
+      "item": "astrochem:benzene",
+      "count": 14
+    },
+    {
+      "item": "astrochem:nitro_methane",
+      "count": 20
+    }
+  ],
+  "result": {
+    "item": "astrochem:petroleum",
+    "count": 1
+  }
+}

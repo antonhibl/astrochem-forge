@@ -1,0 +1,12 @@
+{
+  "type": "alchemistry:compactor",
+  "group": "compactor",
+  "input": {
+    "item": "astrochem:cryo_fluid_phial",
+    "count": 6
+  },
+  "result": {
+    "item": "ad_astra:ice_shard",
+    "count": 1
+  }
+}

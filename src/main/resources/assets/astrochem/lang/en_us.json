@@ -1,0 +1,17 @@
+{
+  "itemGroup.astrochem_tab": "AstroChem",
+
+  "item.astrochem.ostrum_dust": "Ostrum Dust",
+  "item.astrochem.desh_dust": "Desh Dust",
+  "item.astrochem.calorite_dust": "Calorite Dust",
+
+  "item.astrochem.methanol": "Methanol",
+  "item.astrochem.nitro_methane": "Nitro-Methane",
+  "item.astrochem.benzene": "Benzene",
+
+  "item.astrochem.cryogenic_nitrogen": "Cryogenic Nitrogen",
+  "item.astrochem.cryogenic_oxygen": "Cryogenic Oxygen",
+
+  "item.astrochem.petroleum": "Petroleum",
+  "item.astrochem.cryo_fluid_phial": "Cryo Fluid Phial"
+}
